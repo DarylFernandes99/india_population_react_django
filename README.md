@@ -15,6 +15,7 @@ Website Url: https://india-population-react.herokuapp.com/
     </ol>
   <li>React Setup (Frontend)</li>
     <ol>
+      <li>Add MapBoxApi token in the ".env" file under "frontend/gui/"</li>
       <li>Modify "server.js" under "frontend/gui/src/components/"</li>
       <li>Run "installReactPackages.bat" to install the dependencies</li>
       <li>Run "executeReact.bat" to run react</li>
