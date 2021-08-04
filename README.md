@@ -1,6 +1,8 @@
 # India Population built using React and Django
 This website is built using React, Django. It consists of a login, register screen that allows a user to create a profile, once profile is created the user can login and view the population data on an India map. KeplerGL is integrated to display the data on a map.
 
+Website Url: https://india-population-react.herokuapp.com/
+
 <h3>Instructions for execution(For windows) [all *.bat files are found in the root directory]</h3>
 <ul>
   <li>Run the "createVirtualEnv.bat" file to create a python virtual environment and install requirements</li>
