@@ -14,7 +14,7 @@ This website is built using React, Django. It consists of a login, register scre
   <li>React Setup (Frontend)</li>
     <ol>
       <li>Modify "server.js" under "frontend/gui/src/components/"</li>
-      <li>Run "installReactPackages.bat" to install the depndencies</li>
+      <li>Run "installReactPackages.bat" to install the dependencies</li>
       <li>Run "executeReact.bat" to run react</li>
     </ol>
 </ul>
